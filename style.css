@@ -60,7 +60,7 @@ h2 {
   background-color: #F0E68C;
 }
 
-.sinopse p {
+.sinopse p, .sobre p {
   text-indent: 5%;
 }
 
